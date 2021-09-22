@@ -1,0 +1,3 @@
+- 👋 Hi, I’m kipkorir
+- 👀 I’m interested in Python, Django, DevOps
+- 🌱 I’m currently learning React
